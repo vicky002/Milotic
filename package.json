@@ -1,0 +1,11 @@
+{
+	"name": "Milotic-fork",
+	"theme": "syntax",
+	"version": "0.0.1",
+	"description": "The best colorful theme ever.",
+	"repository": "https://github.com/vicky002",
+	"license": "MIT",
+	"engines": {
+		"atom": ">0.50.0"
+	}
+}
