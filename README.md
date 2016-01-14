@@ -37,4 +37,4 @@
 
 **Credits**: Inspired by [@zenorocha's](https://twitter.com/zenorocha) [Dracula Theme](https://github.com/zenorocha/dracula-theme).
 
-**License**: MIT ® [Vikesh Tiwari](https://github.com/vicky002/Milotic/LICENSE).
+**License**: MIT ® [Vikesh Tiwari](https://github.com/vicky002/Milotic/blob/master/LICENSE).
