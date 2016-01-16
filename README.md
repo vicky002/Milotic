@@ -19,6 +19,20 @@
 - [XTerm](https://en.wikipedia.org/wiki/Xterm) and [iTerm](http://www.iterm2.com/).
 
 
+## Sublime Text
+
+![Sublime Example](https://raw.githubusercontent.com/vicky002/Milotic/master/images/sublime.png)
+
+### Install using Package Control
+
+[Will be available soon]
+
+### Manual Install
+1. Use `git clone git@github.com:vicky002/Milotic.git` and then take the **Milotic.tmTheme**
+2. Open Sublime Text and click on **Preferences => browse preferences** 
+3. Then put the **Milotic.tmTheme** there. 
+4. Now select the Milotic Theme by browsing **Preferences -> Color Scheme -> Milotic**
+
 ## Installation
 
 [Under Development]
