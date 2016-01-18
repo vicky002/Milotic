@@ -13,7 +13,6 @@
 
 - [Vim](http://www.vim.org/)
 - [Atom](https://atom.io/)
-- [Sublime Text](http://www.sublimetext.com/3)
 - [Xcode](https://developer.apple.com/xcode/)
 - [Terminal.app](http://en.wikipedia.org/wiki/Terminal_%28OS_X%29)
 - [XTerm](https://en.wikipedia.org/wiki/Xterm) and [iTerm](http://www.iterm2.com/).
