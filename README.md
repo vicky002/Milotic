@@ -24,7 +24,14 @@
 
 ### Install using Package Control
 
-[Will be available soon]
+If you are using [Package Control](https://sublime.wbond.net/), you can easily
+install Milotic via the **Package Control: Install Package**. Search the package theme as
+Milotic in the packages list. After this you should be able to select Milotic color scheme
+by browsing **Preferences -> Color Scheme -> Milotic -> Milotic**
+
+See Milotic in [package control web page](https://packagecontrol.io/packages/Milotic)
+
+
 
 ### Manual Install
 1. Use `git clone git@github.com:vicky002/Milotic.git` and then take the **Milotic.tmTheme**
